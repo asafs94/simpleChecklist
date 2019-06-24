@@ -8,7 +8,6 @@ const bodyParser = require('body-parser');
 Joi.objectid= require("joi-objectid")(Joi);
 
 
-//Hello world
 app.use(bodyParser.json());
 app.use("/api/checklists",checklists)
 app.use("/api/users",users)
