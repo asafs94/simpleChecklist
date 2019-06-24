@@ -1,0 +1,6 @@
+{
+    "LIST_DEFAULT_COLOR":"",
+    "ITEM_DEFAULT_COLOR":"",
+    "JWT_PRIVATE_KEY": "1234",
+    "DB_URI":"mongodb://localhost/simpleCheckList_test"
+}

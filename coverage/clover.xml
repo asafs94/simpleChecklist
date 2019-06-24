@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1561387520437" clover="3.2.0">
+  <project timestamp="1561387520437" name="All files">
+    <metrics statements="142" coveredstatements="142" conditionals="20" coveredconditionals="18" methods="23" coveredmethods="23" elements="185" coveredelements="183" complexity="0" loc="142" ncloc="142" packages="5" files="10" classes="10"/>
+    <package name="simpleCheckList">
+      <metrics statements="18" coveredstatements="18" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <file name="index.js" path="D:\asafs\projects\nodeJS\simpleCheckList\index.js">
+        <metrics statements="18" coveredstatements="18" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="27" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="simpleCheckList.middleware">
+      <metrics statements="31" coveredstatements="31" conditionals="8" coveredconditionals="8" methods="6" coveredmethods="6"/>
+      <file name="auth.js" path="D:\asafs\projects\nodeJS\simpleCheckList\middleware\auth.js">
+        <metrics statements="16" coveredstatements="16" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="25" type="stmt"/>
+        <line num="6" count="25" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="25" type="stmt"/>
+        <line num="9" count="25" type="stmt"/>
+        <line num="10" count="20" type="stmt"/>
+        <line num="11" count="20" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+      </file>
+      <file name="object-id-validator.js" path="D:\asafs\projects\nodeJS\simpleCheckList\middleware\object-id-validator.js">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="11" type="stmt"/>
+        <line num="8" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="9" type="stmt"/>
+      </file>
+      <file name="password-hashing.js" path="D:\asafs\projects\nodeJS\simpleCheckList\middleware\password-hashing.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+      </file>
+      <file name="validate.js" path="D:\asafs\projects\nodeJS\simpleCheckList\middleware\validate.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="3" count="13" type="stmt"/>
+        <line num="4" count="13" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="simpleCheckList.models">
+      <metrics statements="37" coveredstatements="37" conditionals="2" coveredconditionals="1" methods="7" coveredmethods="7"/>
+      <file name="checklist.js" path="D:\asafs\projects\nodeJS\simpleCheckList\models\checklist.js">
+        <metrics statements="23" coveredstatements="23" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="5"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="18" count="40" type="stmt"/>
+        <line num="44" count="3" type="stmt"/>
+        <line num="45" count="2" type="stmt"/>
+        <line num="50" count="3" type="stmt"/>
+        <line num="51" count="8" type="stmt"/>
+        <line num="59" count="3" type="stmt"/>
+        <line num="63" count="3" type="stmt"/>
+        <line num="65" count="3" type="stmt"/>
+        <line num="67" count="3" type="stmt"/>
+        <line num="68" count="3" type="stmt"/>
+        <line num="69" count="3" type="stmt"/>
+        <line num="71" count="3" type="stmt"/>
+        <line num="75" count="3" type="stmt"/>
+        <line num="78" count="3" type="stmt"/>
+        <line num="79" count="10" type="stmt"/>
+        <line num="94" count="10" type="stmt"/>
+        <line num="97" count="3" type="stmt"/>
+        <line num="98" count="3" type="stmt"/>
+      </file>
+      <file name="user.js" path="D:\asafs\projects\nodeJS\simpleCheckList\models\user.js">
+        <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="37" count="26" type="stmt"/>
+        <line num="38" count="26" type="stmt"/>
+        <line num="42" count="26" type="stmt"/>
+        <line num="45" count="2" type="stmt"/>
+        <line num="48" count="4" type="stmt"/>
+        <line num="70" count="4" type="stmt"/>
+        <line num="73" count="2" type="stmt"/>
+        <line num="74" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="simpleCheckList.models.sub-schemas">
+      <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="item.js" path="D:\asafs\projects\nodeJS\simpleCheckList\models\sub-schemas\item.js">
+        <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="27" count="56" type="stmt"/>
+        <line num="45" count="3" type="stmt"/>
+        <line num="46" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="simpleCheckList.routes">
+      <metrics statements="48" coveredstatements="48" conditionals="6" coveredconditionals="6" methods="6" coveredmethods="6"/>
+      <file name="checklists.js" path="D:\asafs\projects\nodeJS\simpleCheckList\routes\checklists.js">
+        <metrics statements="33" coveredstatements="33" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="35" count="4" type="stmt"/>
+        <line num="36" count="4" type="stmt"/>
+        <line num="37" count="4" type="stmt"/>
+        <line num="39" count="4" type="stmt"/>
+        <line num="40" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="42" count="3" type="stmt"/>
+        <line num="44" count="3" type="stmt"/>
+        <line num="49" count="2" type="stmt"/>
+        <line num="51" count="4" type="stmt"/>
+        <line num="52" count="4" type="stmt"/>
+        <line num="54" count="4" type="stmt"/>
+        <line num="55" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="57" count="3" type="stmt"/>
+        <line num="59" count="3" type="stmt"/>
+        <line num="62" count="2" type="stmt"/>
+      </file>
+      <file name="users.js" path="D:\asafs\projects\nodeJS\simpleCheckList\routes\users.js">
+        <metrics statements="15" coveredstatements="15" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
